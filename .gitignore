@@ -1,2 +1,2 @@
-*.gitignore
 flask_app/config/mysqlconnection.py
+.gitignore
